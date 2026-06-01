@@ -1,0 +1,12 @@
+[
+  { "id": "q_1", "type": "tf", "topic": "buyuk_harfler", "question": "Cümleler büyük harfle başlar.", "answer": true },
+  { "id": "q_2", "type": "tf", "topic": "bitisik_ayri", "question": "Birçok kelimesi bitişik yazılır.", "answer": true },
+  { "id": "q_3", "type": "tf", "topic": "baglaclar", "question": "'de' bağlacı ayrı yazılır.", "answer": true },
+  { "id": "q_4", "type": "tf", "topic": "noktalama", "question": "Soru cümleleri soru işareti ile biter.", "answer": true },
+  { "id": "q_5", "type": "tf", "topic": "sayilar", "question": "Sayılar her zaman rakamla yazılır.", "answer": false },
+  { "id": "q_6", "type": "fill", "topic": "buyuk_harfler", "question": "Türkiye Cumhuriyeti'nin başkenti ____.", "answer": "ankara" },
+  { "id": "q_7", "type": "fill", "topic": "bitisik_ayri", "question": "Her ____ ayrı yazılır.", "answer": "şey" },
+  { "id": "q_8", "type": "fill", "topic": "baglaclar", "question": "Ben de ____ geliyorum.", "answer": "sen" },
+  { "id": "q_9", "type": "fill", "topic": "noktalama", "question": "Nereye gidiyorsun____", "answer": "?" },
+  { "id": "q_10", "type": "fill", "topic": "sayilar", "question": "Saat ____ toplantı başlayacak.", "answer": "dokuz" }
+]

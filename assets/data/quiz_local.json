@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "type": "tf",
+    "question": "Özel isimlere gelen ekler kesme işaretiyle ayrılır.",
+    "answer": true
+  },
+  {
+    "id": "2",
+    "type": "fill",
+    "question": "Ankara Türkiye'nin ____ başkentidir.",
+    "answer": "başkenti"
+  },
+  {
+    "id": "3",
+    "type": "tf",
+    "question": "Bağlaç olan 'de' ayrı yazılır.",
+    "answer": true
+  }
+]

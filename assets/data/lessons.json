@@ -1,0 +1,22 @@
+[
+  {
+    "id": "buyuk_harfler",
+    "title": "Büyük Harflerin Yazımı",
+    "content": "Cümleler büyük harfle başlar. Özel isimler büyük harfle yazılır. Kurum ve kuruluş adları büyük harfle başlar.",
+    "topics": [
+      "Cümle başı",
+      "Özel isimler",
+      "Kurum adları"
+    ]
+  },
+  {
+    "id": "bitisik_ayri",
+    "title": "Bitişik ve Ayrı Yazılan Kelimeler",
+    "content": "Bazı kelimeler bitişik, bazıları ayrı yazılır. 'Her şey' ayrı, 'birçok' bitişik yazılır.",
+    "topics": [
+      "Her şey",
+      "Birçok",
+      "Hiçbir"
+    ]
+  }
+]

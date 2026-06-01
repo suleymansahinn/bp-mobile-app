@@ -1,0 +1,23 @@
+[
+  {
+    "id": "bh_1",
+    "type": "tf",
+    "topic": "buyuk_harf",
+    "question": "Cümleler büyük harfle başlar.",
+    "answer": true
+  },
+  {
+    "id": "bh_2",
+    "type": "fill",
+    "topic": "buyuk_harf",
+    "question": "Türkiye'nin başkenti ____'dır.",
+    "answer": "ankara"
+  },
+  {
+    "id": "nt_1",
+    "type": "tf",
+    "topic": "noktalama",
+    "question": "Soru cümlelerinin sonunda soru işareti kullanılır.",
+    "answer": true
+  }
+]
